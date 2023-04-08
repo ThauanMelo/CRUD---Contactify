@@ -9,10 +9,11 @@ Ao longo do processo de desenvolvimento, esforcei-me para usar as melhores prát
 
 Se você estiver interessado em aprender mais sobre a arquitetura MVC, C# .NET ou como construir uma aplicação CRUD, sinta-se à vontade para navegar no código e recursos deste repositório. Obrigado pelo seu interesse no CONTACTIFY!
 
-Tecnologias:
+Tecnologias 🧑🏼‍💻
 
 • C# • SQLSERVER • .NET 7 • BootStrap • Jquery DataTable
 
+____________________________________________________________________________________
 
 English: 
 Welcome to the CONTACTIFY GitHub repository! This is a CRUD application built using the MVC architecture in C# .NET.
@@ -24,7 +25,7 @@ Throughout the development process, I strived to use best practices and follow c
 If you are interested in learning more about the MVC architecture, C# .NET, or how to build a CRUD application, feel free to browse the code and resources in this repository. Thank you for your interest in CONTACTIFY!
 
 
-Technologies:
+Technologies 🧑🏼‍💻
 
 • C#
 • SQLSERVER
