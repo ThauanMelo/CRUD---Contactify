@@ -12,9 +12,11 @@ If you are interested in learning more about the MVC architecture, C# .NET, or h
 Technologies:
 
 • C#
+• SQLSERVER
 • .NET 7
 • BootStrap
 • Jquery DataTable
+
 
 Working Example:
 
